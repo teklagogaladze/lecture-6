@@ -1,0 +1,159 @@
+body {
+	background-color:#F1F1F1 ;
+
+	margin: 0;
+}
+.container {
+	max-width: 1170px;
+	margin: 0 auto;
+}
+.seqcia1 {
+	display: inline-block;
+	width: 758;
+	margin-left: 174px;
+}
+.seqcia2 {
+	display: inline-block;
+	width: 362pz;
+}
+.main {
+	color: #000000;
+	font-size:11px ;
+	font-weight:700 ;
+	display: inline-block;
+	margin-right: 35px;
+}
+ul {
+	padding: 0px;
+}
+.title {
+	color: black;
+	font-size:24px ;
+	margin-top: 76px;
+	font-weight: 700;
+}
+.text {
+	color:#8A8787 ;
+	font-size:10px ;
+	font-weight:700 ;
+	line-height: 11.72px;
+	margin-top: 68px;
+	margin-left: 30px;
+}
+.gg {
+	padding:0px 137px 0px 137px;
+}
+.teqsti {
+	display: inline-block;
+	position: relative;
+}
+.tag {
+	position: absolute;
+	top: 32px;
+	left: 41px;
+	color: white;
+	font-size:20px ;
+	font-weight:700 ;
+}
+
+.card-container {
+  /*box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 362px;
+  height: 350px;*/
+  display: inline-block;
+  margin-left: 40px;
+  background-color: white;
+  max-width: 1170px;
+  margin: 0auto;
+  margin-top: 27px;
+  }
+.card {
+  padding: 2px 16px;
+}
+.title2 {
+	color: black;
+	font-size:24px ;
+	margin-top: 56px;
+	font-weight: 700;
+	display: inline-block;
+  max-width: 1170px;
+  margin-left: 19px;
+}
+.img2 {
+	margin-top: 42px;
+	display: inline-block;
+
+}
+div .photo1 {
+	display: inline-block;
+	width: 758px;
+	vertical-align: top;
+	max-width: 1170px;
+	margin: 0 auto;
+}
+.tag2 {
+	position: absolute;
+	top: 203px;
+	left: 278px;
+	color: white;
+	font-size:20px ;
+	font-weight:700 ;
+}
+div .photo2 {
+	display: inline-block;
+	width: 362px;
+	vertical-align: top;
+	margin-top: 42px;
+	margin-left: 45px;
+}
+.img4 {
+	margin-top: 103px;
+	margin-bottom: 103px;
+}
+.home  {
+	color:#818687 ;
+	font-size:12px ;
+	font-weight:700 ;
+	display: inline-block;
+	margin-left: 137px;
+	margin-top: 59px;
+}
+.about {
+	color:#818687 ;
+	font-size:12px ;
+	font-weight:700 ;
+	display: inline-block;
+	margin-left: 75px;
+	margin-top: 59px;
+}
+.Testimonials {
+	color:#818687 ;
+	font-size:12px ;
+	font-weight:700 ;
+	display: inline-block;
+	margin-left: 126px;
+	margin-top: 59px;
+}
+.stay {
+	display: inline-block;
+}
+.stayp {
+color:white ;
+	font-size:12px ;
+	font-weight:400;
+	margin-left: 810px;
+	display: inline-block;
+	margin-top: -100px;
+}
+footer {
+	background-color: #243043;
+	width: 1519px;
+	height: 201px;
+	margin-top: 36px;
+} 
+.logo {
+	margin-left: 1264px;
+	margin-top: -100px;
+
+}
